@@ -5,8 +5,23 @@
         "link": "https://www.youtube.com/@MontanGD"
     },
     {
-        "role": "list admin",
+        "role": "admin",
         "name": "List Admin",
+        "link": ""
+    },
+    {
+        "role": "helper",
+        "name": "List Helper",
+        "link": ""
+    },
+    {
+        "role": "trial",
+        "name": "Trial List Helper",
+        "link": ""
+    },
+    {
+        "role": "dev",
+        "name": "Montan",
         "link": ""
     },
 ]
